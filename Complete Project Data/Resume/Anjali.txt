@@ -1,0 +1,85 @@
+Shankar Maruti Sawase
+Mobile No: +91 7588611734                                                                                      Mail: dipalijgtap24@gmail.com
+                                                   	Address: Shitole Building, hingane
+						   Colony, karve nagar pune.
+
+Career ObjectiveI would like to pursue my career in a work environment that will utilize and reinforce my technical skills and abilities and also to apply and gain new cutting edge skills and experience in a rapidly changing field. 
+Technical Expertise
+
+PLM Application : Aras Innovator 11 AML (Aras Markup Language), IOM (Innovator Object 		          Model - API), C#, VB.NET, Transact SQL, JavaScript, HTML, CSS, XML 			          XSLT,MRS(Microsoft Reporting Services). 
+			Technical Familiar with installing, configuring and customizing the Aras 			Innovator open source enterprise solutions (business application 				templates): Product Engineering, Program Management, Quality 				Planning and most of the open community add-ons.
+
+Scripts 	      : HTML, JavaScript, 
+
+Database	      : MS SQL SERVER ( 2008 R2).
+
+				
+Profile
+Total 2 years of experience in end-to-end Software Development & Design with technical proficiency in ASP.NET, C#, ARAS INNOVATOR PLM development.
+Working as a Software Developer in Flexur Systems Pvt. Ltd, Pune from Sept 2016 to till date.
+
+
+Work Experience
+	
+Current Company : Flexur Sysytems Pvt. Ltd. (www.flexur.com) 
+
+Joining date: 01 May 2015 to Till Date
+
+Project Name:- PCC Structural PLM System
+Description:- Exova Labs performs sample testing for PCC Structurals. When there is a testing failure at the lab, a Report of Nonconformance (RNC) is issued. The current RNC process is paper based.  Utilizing PCC Innovator to create RNC’s at the labs will allow for a user friendly interface, hold users accountable for their dispositions, increase the RNC disposition response time, and centralize the RNC’s in one location to avoid quality escapes.
+The new design will be based upon a workflow that will route the RNC throughout the workflow cycle and display appropriate forms and notifications respective to the end users’ roles in the workflow. MLC is the Metal Lot Certification program that will be integrated with ARAS Innovator in order to display related metal lot and workorder data.
+
+Technologies/Tools:- Aras Innovator 11 SP8, SQL Server 2014.
+
+Role : Project Developer
+
+
+
+
+Previous Company : SV Kayan Soft Tech Pvt. Ltd. (www.aurum-data.com) 
+
+Joining date: 01 May 2015 to 15 sept 2016
+
+Project Name:- Symbiosis(CIPLA) PharmaCore PLM System
+
+Description:- This PLM system helps to organization to maintain all inward and outward details of particular section in Pharmaceutical plant and on lifecycle and workflow all process completed in system.
+Every section having 1 particular life cycle and workflow this will help to automation on all process. This System will create employee work scheduling, production scheduling, machine maintenance scheduling, plant cleaning scheduling.
+Using this PLM system will help to reduce documentation part, Also system will generate reports of all section.
+
+Technologies/Tools:- Aras Innovator 11, SQL Server 2008 r2.
+
+Team Strength: 5.
+
+Role : Project Lead
+
+
+Previous Company :-Voyager Web Solution. (www.voyagerwebs.com) 
+
+Joining date: 01 Feb 2015 to 30 April 2015
+
+Project Name:- Zone Construction Co LTD.
+
+Description:- The project is for hiring the skip to the customer. The skips are hired on the basis of customer requirement, price management of skip is to be maintained in this project, Few things are in this project like order management, Keeping the details of customer, report generation, multilingual, In this project we maintain the all thing which is required for Displaying and managing it’s views Details.
+
+Technologies/Tools:- MVC (4 razor), SQLServer(2008 R2), JavaScript, JQuery, HTML5, CSS3., Entity Framework(6.1).
+
+URL:  HYPERLINK "http://www.google.com/url?q=http%3A%2F%2Fzone.com.sa%2F&sa=D&sntz=1&usg=AFQjCNE7uDoMu0Iyf1u0tTuapYav3TgkHw" \t "_blank" zone.com.sa
+
+Team Strength: 3.
+
+Role : - Project Architecture database design also project design.
+	- Analysis and understanding the requirement document.
+
+Achivements
+
+1. Learned First Level Japanese Language.
+2. 1 year experience as Software Trainer.
+
+
+Academic Credentials:DegreeYearBoard/University PercentageM.C.A2014Pune University64.15%B.C.A.2010Pune University60.05%H.S.C(COMM)2007Maharashtra Board59.00%S.S.C.2005Maharashtra Board62.40%
+Personal Information:NameShankar Maruti SawaseDate Of Birth17-Sept-1989StrengthQuick Lerner, Confidence, Thoughtful behaviour.HobbyLearn New Technologies,Trekking.Language Known(R/W)English, Marathi, HindiPermanent AddressAT.Po.Kasar Jawla Tal. Dist. Latur                                                                                   Pin :413512
+I hereby declare that the particulars of information and facts mentioned above are true, correct and complete to the best of my knowledge and belief.
+
+Date :
+
+Place: PUNE                                                                            Shankar M Sawase.

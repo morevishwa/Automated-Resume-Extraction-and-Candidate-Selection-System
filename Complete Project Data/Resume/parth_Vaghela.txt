@@ -1,0 +1,95 @@
+PARTH VAGHELA
+
+OBJECTIVE:
+
+             To be part of an organization that encourages self innovation, and that rewards creativity and hard work 
+
+ACADEMICS:
+
+Course : 	B.E. in Electronics & Communicatinon Engineering
+Institute : Government Engineering College, Bhavnagar
+University : Bhavnagar University
+QualificationYear of PassingInstitutionBoard / UniversityPercentageRemarksB.E. Electronics & Communication2011Government Engineering College, BhavnagarBhavnagar University8th Sem63.25
+SECOND7th Sem72.226th Sem68.635th Sem57.54th  Sem593rd  Sem49.131st  Year47.36H.S.C2006Kamani forward higher secondary school Amreli.GSEB66.60%DISTINCTIONS.S.C2004Dipak high school Amreli.GSEB81.29%DISTINCTION       Aggregate of B.E. : 59.70%
+
+
+PERSONAL PROFILE:
+
+Father’s Name:Mr. Shaileshbhai J. Vaghela
+Permanent     Address:“PRAMUKH PALACE”, Yamuna park,
+chittal road,
+Amreli-365601Date of Birth9th July 1989Phone No:9429222211Email Id:malisnehal024@gmail.comKnown LanguagesEnglish, Gujarati, Hindi
+
+
+
+SEMINARS / PAPERS PRESENTED
+
+Presented seminar on MICRO CONTROLLER FAMILY.
+Presented seminar in BLUE-RAY DISC.
+
+
+PROJECTS
+
+Single-stage ac/dc converter 
+A single-stage ac/dc converter based on a half-bridge topology suitable for low-power-level applications is proposed. The converter has high power factor, low harmonic distortion, and tight output regulations. An asymmetrical control and synchronous rectification are employed to reduce the switching and rectification losses, respectively. 
+FM Transmitter
+This device is helpful in transmitting data within the FM Radio band of 88 MHZ to 108 MHZ. Finds application in The field of entertainment, data acquisition and remote controlling.
+
+
+ACADEMIC PROJECTS  (In Each Semester)
+
+
+   1. Door bell with memory				             Duration: 2 months
+      Team Size: 2			  			Role: Team Member
+Technology: using transistor BC547			
+Scope:  This project consisted of the flip-flop that are memory elements and conveys that in our absence someone had visited the house
+ Contributions: Met deadlines and completed the allocated tasks within the specified deadline.
+
+      2. Touch Switch                                                        	             Duration: 2 weeks	
+Team Size: 2						Role: Team Member 
+Technologies: Using IC 555
+Scope: It included of a circuitry that provided a multivibrator and two electrodes which used as touching device this can operate any further devices.  	 
+Contributions: Met deadlines and completed allocated tasks as per schedule.   
+
+       3. Smoke Alarm			                                            Duration: 1 week 
+        Team Size: 2		                                                           Role: Team member
+Technologies: IC OP-Amp 741					
+Scope: It is a circuit that includes an instrumentation amplifier and a LDR which acts as a sensor to detect the smoke, instrumentation amplifier provided out signal to the led which indicated presence of smoke. 
+      Contributions: Met the deadlines and tested the circuit, successfully, over myself.
+
+
+
+
+
+
+
+
+FINAL YEAR TRAINING REPORT: 
+
+PIPAVAV SHIPYARD:  This training report is about Pipavav Port and Shipyard. Also understand how to setup communiation system in ship. 
+
+
+
+INDUSTRIAL VISITS
+
+B.E.5th SEM –
+1. BSNL Head Office, Bhavnagar.
+2..BSNL Head Office, Amreli.
+	
+
+SKILLS AND INTERESTS
+
+Computer Skills: C, Microsoft Office, MATLAB 6.5, VHDL, Microcontroller programming
+Interests: Reading, net surfing, visiting tourist places, 
+Area of Interest: Space Communication, Data Networking, Microcontroller, Mobile Communication
+
+
+
+
+
+
+
+I hereby do solemnly affirm that the details furnished above are true to the best of my knowledge.
+
+
+	PLACE : AMRELI								PARTH VAGHELA

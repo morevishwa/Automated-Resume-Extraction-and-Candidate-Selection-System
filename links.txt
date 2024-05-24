@@ -1,0 +1,3 @@
+HR :-            http://localhost:8090/ResumeExtractor/
+Candidate :- http://localhost:8090/ResumeExtractor/candidates.jsp
+Admin :-       http://localhost:8090/ResumeExtractor/Admin.jsp

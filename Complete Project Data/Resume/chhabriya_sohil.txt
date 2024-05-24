@@ -1,0 +1,87 @@
+RESUME
+Chhabriya Sohil Jitendra
+(C, C++, J2SE, J2EE, JSP, PHP, Oracle® 9i, MySql)
+
+E-mail	: - tdhewade@gmail.com
+Contact at	: - 08983376707/9226587155(dad’s)
+Current reside at PUNE.
+Ready to reallocate at any location in India.
+
+CAREER OBJECTIVE
+To begin a career with an organization that can ensure a meaningful participation in the activities of that organization.
+
+EDUCATIONAL QUALIFICATION
+Qualification Board/UniversityYearMarks (%)PG-DIPLOMA(DAC)ACTS C-DAC (New Delhi)2012                       57B.C.ANagpur University201150H.S.CMaharashtra Board200854S.S.CMaharashtra Board200662
+INTERNSHIP
+C-DAC PROJECTS
+
+1.   Project:  CARGO MANAGEMENT SYSTEM.
+		Technologies	: - J2SE (SWING), Oracle® 9i
+		Role					: - Software Architect, Designer, Software Developer, Software Tester.
+		Duration 			: - 15 days 
+		Team					: - 4
+--x--
+
+2.  Project:  ONLINE EXAMINATION AND RECRUITMENT (J2EE).
+		Technologies			: - J2EE (JSP), Oracle® 9i (version 1), MySql (version 2), 
+											 Apache server, WAMP, Jquery, JavaScript, AJAX.
+		Role						: - Software Architect, Designer, Software Developer,
+												Software Tester.
+		Project Description	: - This online System is searching diamonds from the heap of coal by examining the candidate's skills at high level in each subject he/she prefers to build their career in. On the basis of their aggregate they are recommended to the companies register to this site!! Recruiters get well qualified candidates, as they are shortlisted even before they get into the first round of the company's respective recruitment process. For the student reference, this site provides online study material by which he/she can prepare for the exam.
+		Duration 				: - 2 months
+		Team						: - 4
+--x--
+3.  Project:  ONLINE EXAMINATION AND RECRUITMENT (PHP).
+		Front End				: - PHP, MySql, Apache server, Jquery, JavaScript, AJAX. 
+		Role          				: - Software Architect, Designer, Software Developer, Software Tester, Team Leader.
+		No of Modules			: - 7 seven (Admin, Student, Employer, Mailing & Confirmation System, Online Examination, Auto Job/candidate Suggestion, Online Notes)
+		Project Description	: - This online System is searching diamonds from the heap of coal by examining the candidate's skills at high level in each subject he/she prefers to build their career in. On the basis of their aggregate they are recommended to the companies register to this site!! Recruiters get well qualified candidates, as they are shortlisted even before they get into the first round of the company's respective recruitment process. For the student reference, this site provides online study material by which he/she can prepare for the exam. 
+		Duration 				: - 2 months
+		Team						: - 3
+--x--
+
+4.  Project:  CONSULTANCY MANAGEMENT AND ACCOUNTING (under construction!).
+		Technologies			: - J2EE (JSP), Oracle® 9i, Apache server, Jquery, JavaScript, AJAX. 
+		Role						: - Software Architect, Designer, Software Developer, Software Tester.
+		Project Description	: - This system was made to manage the heavy data interchange in a consultancy office. The system is totally automatic and serves the job seeker, consultancy manager and job provider. This software also counts the financial accounting of the consultancy and helps the client to generate annual report. This is the complete solution for a consultancy management tasks performed automatically.
+		Duration 				: - 2 months
+		Team						: - 1
+--x--
+
+COMPUTER SKILLS
+Computer Languages : C in Turbo c and Borland Compiler, C++ in Turbo c and Borland Compiler, HTML  4.0/5.0, XML 1.0, PHP5,J2SE, J2EE,jsp. 
+Operating System: LINUX (Centos, Red Hat), WINDOWS (XP, WINDOWS 7).
+Database: Oracle (9i), MySql version 2005, MS.Access 2003/2007.
+Tools: Eclipse, Net Beans 7.0, Microsoft Publisher, Microsoft Web Expression, SQL Developer 3.0.
+Server: Apache Tomcat 7.0, WAMP Server 2.1.
+
+Key skills - C, C++, J2SE, J2EE, PHP, Oracle , Mysql, javascript, struts, servlet, hybernet, linux.
+
+PERSONAL STRENGTH
+Learning agility and effective personal communication skills.
+Success Oriented and Natural Leader.
+Team Player.
+Hardworking.
+Self Motivated and Determined. 
+Intelligence and Self Confidence.
+A quick learner. Enjoys learning new things.
+Enthusiastic and committed to excellence in my work
+
+ABOUT ME…
+Date of Birth     	                         	: 8 July 1990
+Marital Status   	                         	: Single
+Gender                                           	: Male
+Interest                                           	: Making friends, Playing Cricket, Morning Jogging, Listening music
+Nationality        	                         	: Indian
+Permanent Address                        	: C-404 Pritam Complex, Old Bhandara road, Small factory area,
+  Sudharshan Nagar Sq. Nagpur.
+Correspondence Address		: Flat no-9, Audumber Apt., Beside Reliance Fresh, Right Bhusari 
+  Colony, Paud road, Kothrud, Pune.
+Languages Known	            	: English, Hindi, Marathi, and Sindhi.
+Hobby			            	: Listen Music, Playing CHESS.
+
+DECLARATION
+I do hereby confirm that the information given above is true and correct to the best of my knowledge and belief. 
+       Date:                                                                                                            
+       Place:										      Sohil Chhabriya
+

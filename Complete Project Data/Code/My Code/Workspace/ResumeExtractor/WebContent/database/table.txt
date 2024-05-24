@@ -1,0 +1,218 @@
+/*
+Navicat MySQL Data Transfer
+
+Source Server         : MySQL
+Source Server Version : 50153
+Source Host           : localhost:3306
+Source Database       : reeume_extraction
+
+Target Server Type    : MYSQL
+Target Server Version : 50153
+File Encoding         : 65001
+
+Date: 2013-12-25 17:59:57
+*/
+
+SET FOREIGN_KEY_CHECKS=0;
+
+-- ----------------------------
+-- Table structure for `jobseeker`
+-- ----------------------------
+DROP TABLE IF EXISTS `jobseeker`;
+CREATE TABLE `jobseeker` (
+  `JobSeeker_id` int(20) NOT NULL AUTO_INCREMENT,
+  `Name` text,
+  `Resume_Name` text,
+  `Resume_Location` text,
+  `Email_ID` text,
+  PRIMARY KEY (`JobSeeker_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;
+
+-- ----------------------------
+-- Records of jobseeker
+-- ----------------------------
+
+-- ----------------------------
+-- Table structure for `keywords`
+-- ----------------------------
+DROP TABLE IF EXISTS `keywords`;
+CREATE TABLE `keywords` (
+  `Keyword_id` int(20) NOT NULL,
+  `Keyword_type` text,
+  `Keyword_desc` text
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+-- ----------------------------
+-- Records of keywords
+-- ----------------------------
+INSERT INTO `keywords` VALUES ('1', 'Designation', 'Software Trainee');
+INSERT INTO `keywords` VALUES ('2', 'Designation', 'Software Engineer');
+INSERT INTO `keywords` VALUES ('3', 'Designation', 'Sr Software Engineer');
+INSERT INTO `keywords` VALUES ('4', 'Designation', 'Software Architect');
+INSERT INTO `keywords` VALUES ('5', 'Designation', 'Design Engineer');
+INSERT INTO `keywords` VALUES ('6', 'Designation', 'Sr Design Engineer');
+INSERT INTO `keywords` VALUES ('7', 'Designation', 'Engineer Software Testing');
+INSERT INTO `keywords` VALUES ('8', 'Designation', 'Sr Engineer Software Testing');
+INSERT INTO `keywords` VALUES ('9', 'Designation', 'Team Lead');
+INSERT INTO `keywords` VALUES ('10', 'Designation', 'Test Lead');
+INSERT INTO `keywords` VALUES ('11', 'Designation', 'Assistant Project Manager');
+INSERT INTO `keywords` VALUES ('12', 'Designation', 'Project Manager');
+INSERT INTO `keywords` VALUES ('13', 'Designation', 'Application Developer');
+INSERT INTO `keywords` VALUES ('14', 'Designation', 'Sr Application Developer');
+INSERT INTO `keywords` VALUES ('15', 'Designation', 'Product Head');
+INSERT INTO `keywords` VALUES ('16', 'Designation', 'Software Analyst');
+INSERT INTO `keywords` VALUES ('17', 'Designation', 'Lead Analyst');
+INSERT INTO `keywords` VALUES ('18', 'Designation', 'Sr Analyst');
+INSERT INTO `keywords` VALUES ('19', 'Skill', 'C');
+INSERT INTO `keywords` VALUES ('20', 'Skill', 'C++');
+INSERT INTO `keywords` VALUES ('21', 'Skill', 'CPP');
+INSERT INTO `keywords` VALUES ('22', 'Skill', 'Java');
+INSERT INTO `keywords` VALUES ('23', 'Skill', 'J2SE');
+INSERT INTO `keywords` VALUES ('24', 'Skill', 'J2ME');
+INSERT INTO `keywords` VALUES ('25', 'Skill', 'J2EE');
+INSERT INTO `keywords` VALUES ('26', 'Skill', '.NET');
+INSERT INTO `keywords` VALUES ('27', 'Skill', 'ASP.NET');
+INSERT INTO `keywords` VALUES ('28', 'Skill', 'C#');
+INSERT INTO `keywords` VALUES ('29', 'Skill', 'Cognos');
+INSERT INTO `keywords` VALUES ('30', 'Skill', 'CSS');
+INSERT INTO `keywords` VALUES ('31', 'Skill', 'HTML');
+INSERT INTO `keywords` VALUES ('32', 'Skill', 'XML');
+INSERT INTO `keywords` VALUES ('33', 'Skill', 'JavaScript');
+INSERT INTO `keywords` VALUES ('34', 'Skill', 'Visual Basic');
+INSERT INTO `keywords` VALUES ('35', 'Skill', 'Hibernet');
+INSERT INTO `keywords` VALUES ('36', 'Skill', 'JSF');
+INSERT INTO `keywords` VALUES ('37', 'Skill', 'AJAX');
+INSERT INTO `keywords` VALUES ('38', 'Skill', 'LINUX');
+INSERT INTO `keywords` VALUES ('39', 'Skill', 'UNIX');
+INSERT INTO `keywords` VALUES ('40', 'Skill', 'Windows');
+INSERT INTO `keywords` VALUES ('41', 'Skill', 'Oracle');
+INSERT INTO `keywords` VALUES ('42', 'Skill', 'PL/SQL');
+INSERT INTO `keywords` VALUES ('43', 'Skill', 'MYSQL');
+INSERT INTO `keywords` VALUES ('44', 'Skill', 'SQL Server');
+INSERT INTO `keywords` VALUES ('45', 'Skill', 'MS Access');
+INSERT INTO `keywords` VALUES ('46', 'Skill', 'PostgreSQL');
+INSERT INTO `keywords` VALUES ('47', 'Skill', 'jQuery');
+INSERT INTO `keywords` VALUES ('48', 'Skill', 'python');
+INSERT INTO `keywords` VALUES ('49', 'Skill', 'cobol');
+INSERT INTO `keywords` VALUES ('50', 'Skill', 'pascal');
+INSERT INTO `keywords` VALUES ('51', 'Skill', 'ubuntu');
+INSERT INTO `keywords` VALUES ('52', 'Skill', 'mac os');
+INSERT INTO `keywords` VALUES ('53', 'Skill', 'Apache Tomcat');
+INSERT INTO `keywords` VALUES ('54', 'Skill', 'Android');
+INSERT INTO `keywords` VALUES ('55', 'Skill', 'Iphone');
+INSERT INTO `keywords` VALUES ('56', 'Skill', 'Netbeans');
+INSERT INTO `keywords` VALUES ('57', 'Skill', 'QTP');
+INSERT INTO `keywords` VALUES ('58', 'Skill', 'Automation Testing');
+INSERT INTO `keywords` VALUES ('59', 'Skill', 'Manual Testing');
+INSERT INTO `keywords` VALUES ('60', 'Skill', 'Struts');
+INSERT INTO `keywords` VALUES ('63', 'Skill', 'Perl');
+INSERT INTO `keywords` VALUES ('64', 'Skill', 'Spring');
+INSERT INTO `keywords` VALUES ('65', 'Skill', 'Eclipse');
+INSERT INTO `keywords` VALUES ('66', 'percentage criteria', 'Distinction');
+INSERT INTO `keywords` VALUES ('69', 'percentage criteria', 'First Class');
+INSERT INTO `keywords` VALUES ('70', 'percentage criteria', 'Higher Second Class');
+INSERT INTO `keywords` VALUES ('71', 'percentage criteria', 'Second Class');
+INSERT INTO `keywords` VALUES ('72', 'percentage criteria', 'Third Class');
+INSERT INTO `keywords` VALUES ('73', 'percentage criteria', 'Pass');
+INSERT INTO `keywords` VALUES ('113', 'Keywords', 'Experience');
+INSERT INTO `keywords` VALUES ('114', 'Location', 'Ahmedabad');
+INSERT INTO `keywords` VALUES ('115', 'Location', 'Bangalore');
+INSERT INTO `keywords` VALUES ('116', 'Location', 'Chennai');
+INSERT INTO `keywords` VALUES ('117', 'Location', 'Delhi');
+INSERT INTO `keywords` VALUES ('118', 'Location', 'Gurgaon');
+INSERT INTO `keywords` VALUES ('119', 'Location', 'Hyderabad');
+INSERT INTO `keywords` VALUES ('120', 'Location', 'Kolkata');
+INSERT INTO `keywords` VALUES ('121', 'Location', 'Mumbai');
+INSERT INTO `keywords` VALUES ('122', 'Location', 'Noida');
+INSERT INTO `keywords` VALUES ('123', 'Location', 'Pune');
+INSERT INTO `keywords` VALUES ('124', 'Location', 'Ahmednagar');
+INSERT INTO `keywords` VALUES ('125', 'Location', 'Ajmer');
+INSERT INTO `keywords` VALUES ('126', 'Location', 'Aligarh');
+INSERT INTO `keywords` VALUES ('127', 'Location', 'Allahabad');
+INSERT INTO `keywords` VALUES ('128', 'Location', 'Bhagalpur');
+INSERT INTO `keywords` VALUES ('129', 'Location', 'Baroda ');
+INSERT INTO `keywords` VALUES ('130', 'Location', 'Bhopal ');
+INSERT INTO `keywords` VALUES ('131', 'Location', 'Bhubaneshwar');
+INSERT INTO `keywords` VALUES ('132', 'Location', 'Chandigarh');
+INSERT INTO `keywords` VALUES ('133', 'Location', 'Coimbatore');
+INSERT INTO `keywords` VALUES ('134', 'Location', 'Goa');
+INSERT INTO `keywords` VALUES ('135', 'Location', 'Gwalior');
+INSERT INTO `keywords` VALUES ('136', 'Location', 'Indore');
+INSERT INTO `keywords` VALUES ('137', 'Location', 'Jabalpur');
+INSERT INTO `keywords` VALUES ('138', 'Location', 'Jaipur');
+INSERT INTO `keywords` VALUES ('139', 'Location', 'Jammu');
+INSERT INTO `keywords` VALUES ('140', 'Location', 'Jamshedpur');
+INSERT INTO `keywords` VALUES ('141', 'Location', 'Kolhapur');
+INSERT INTO `keywords` VALUES ('142', 'Location', 'Kharagpur');
+INSERT INTO `keywords` VALUES ('35', 'Skill', 'Hybernet');
+INSERT INTO `keywords` VALUES ('45', 'Skill', 'Microsoft Access');
+
+-- ----------------------------
+-- Table structure for `matching_percent`
+-- ----------------------------
+DROP TABLE IF EXISTS `matching_percent`;
+CREATE TABLE `matching_percent` (
+  `per_id` int(20) NOT NULL AUTO_INCREMENT,
+  `JobSeeker_id` int(20) DEFAULT NULL,
+  `matching_percent` int(20) DEFAULT NULL,
+  PRIMARY KEY (`per_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=latin1;
+
+-- ----------------------------
+-- Records of matching_percent
+-- ----------------------------
+
+-- ----------------------------
+-- Table structure for `recruter`
+-- ----------------------------
+DROP TABLE IF EXISTS `recruter`;
+CREATE TABLE `recruter` (
+  `Recruter_Id` int(20) NOT NULL AUTO_INCREMENT,
+  `Recruter_Name` text,
+  `Password` text,
+  PRIMARY KEY (`Recruter_Id`)
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=latin1;
+
+-- ----------------------------
+-- Records of recruter
+-- ----------------------------
+
+-- ----------------------------
+-- Table structure for `registration`
+-- ----------------------------
+DROP TABLE IF EXISTS `registration`;
+
+ CREATE TABLE `registration` (
+  `registration_id` int(40) default NULL,
+  `name` varchar(50) default NULL,
+  `address` varchar(50) default NULL,
+  `contact_number` mediumtext,
+  `email_id` varchar(50) default NULL,
+  `password` varchar(50) default NULL,
+  `confirmpassword` varchar(50) default NULL,
+  `Birthdate` varchar(50) default NULL,
+  `gender` varchar(50) default NULL,
+  `companyname` varchar(50) default NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+-- ----------------------------
+-- Records of registration
+-- ----------------------------
+
+-- ----------------------------
+-- Table structure for `resume`
+-- ----------------------------
+DROP TABLE IF EXISTS `resume`;
+CREATE TABLE `resume` (
+  `extract_id` int(20) NOT NULL AUTO_INCREMENT,
+  `JobSeeker_id` int(20) DEFAULT NULL,
+  `Keyword_id` int(20) DEFAULT NULL,
+  `Description` text,
+  `Appearence` int(20) DEFAULT '0',
+  PRIMARY KEY (`extract_id`),
+  KEY `JobSeeker_id` (`JobSeeker_id`),
+  CONSTRAINT `JobSeeker_id` FOREIGN KEY (`JobSeeker_id`) REFERENCES `jobseeker` (`JobSeeker_id`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB AUTO_INCREMENT=59 DEFAULT CHARSET=latin1;
+
+-- ----------------------------
+-- Records of resume
+-- ----------------------------
